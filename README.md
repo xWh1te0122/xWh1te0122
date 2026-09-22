@@ -6,7 +6,6 @@ I'm currently pursuing my Master's degree in Computer Science at NCHU (國立中
 - 🌱 **I’m currently learning:** Distributed Systems, Cloud Computing, and Data Engineering. I focus on designing robust software architectures and utilizing tech stacks adopted by top-tier global tech companies.
 - 👯 **I’m looking to collaborate on:** Open-source system infrastructure, cloud-native tools, or data-intensive applications.
 - 🤔 **I’m looking for help with:** Deep diving into complex System Design patterns and scalable cloud solutions.
-- 💬 **Ask me about:** System architecture, database optimization, or my current graduate coursework.
 - 📫 **How to reach me:** xbewhyourself1te@gmail.com or connect with me on [[LinkedIn](https://www.linkedin.com/in/kuan-lin-chiu-598716257/)].
 ---
 ### 🐍 My GitHub Contributions
